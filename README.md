@@ -117,8 +117,6 @@ Run the JAR File:
 To run the packaged application, execute the following command:
 bash
 Copy code
-java -jar target/your-application-name.jar
-Replace your-application-name.jar with the actual name of the generated JAR file.
 Error Handling
 The application includes error handling for the following scenarios:
 
